@@ -6,10 +6,9 @@
 Receive a DM telling your how much currency you have
 
 Usage:
-    !currency
-
+ !points
 Example:
     ::
 
-        user:     !currency
+        user:     !points
         botisimo: Currency: 850
